@@ -24,3 +24,9 @@ Here is how to define *most* as the default pager.
 
     sudo update-alternatives --config pager
 
+Preview
+-------
+
+What it looks like ?
+
+![preview](https://raw.github.com/dwogsi/dotfiles/master/preview.png)
