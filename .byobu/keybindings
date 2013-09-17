@@ -1,0 +1,5 @@
+source $BYOBU_PREFIX/share/byobu/keybindings/common
+
+bindkey "^[[1;3D" # alt-left   | Previous Window
+bindkey "^[[1;3C" # alt-right  | Next Window
+
