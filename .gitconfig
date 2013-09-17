@@ -4,5 +4,3 @@
 	default = matching
 [color]
 	ui = true
-[gui]
-	recentrepo = /home/thierry/Zol/www/intrazol.local
