@@ -8,7 +8,7 @@ Feel free to pick what you need !
 Preview
 -------
 
-What it looks like ?
+What does it looks like ?
 
 ![preview](https://raw.github.com/dwogsi/dotfiles/master/preview.png)
 
