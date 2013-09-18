@@ -8,7 +8,7 @@ Feel free to pick what you need !
 Preview
 -------
 
-What does it look like ?
+Here is an example of what you can you using *byobu* and my dot files.
 
 ![preview](https://raw.github.com/dwogsi/dotfiles/master/preview.png)
 
